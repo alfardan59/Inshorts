@@ -66,16 +66,6 @@ const List<NewsModel> newsList = [
   time: "30 minutes ago",
 ),
 
-NewsModel(
-  title: "Electric vehicle sales hit all-time high",
-  description:
-      "Global EV sales continue to grow as more countries invest in charging infrastructure and sustainable transportation.",
-  imageUrl:
-      "https://images.unsplash.com/photo-1593941707882-a5bac6861d75",
-  category: "Automobile",
-  source: "Reuters",
-  time: "3 hours ago",
-),
 
 NewsModel(
   title: "New breakthrough in cancer research announced",
